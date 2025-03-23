@@ -1,0 +1,8 @@
+streamlit 
+langchain 
+openai 
+python-dotenv 
+requests 
+pandas
+yfinance
+diagrams
