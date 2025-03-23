@@ -5,7 +5,7 @@ import numpy as np
 from matplotlib import font_manager
 import matplotlib as mpl
 
-# Set high-quality rendering
+
 plt.rcParams['figure.dpi'] = 300
 plt.rcParams['savefig.dpi'] = 300
 

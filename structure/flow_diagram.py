@@ -4,7 +4,7 @@ def create_conversation_flow_diagram():
     # Create a new directed graph with improved styling
     dot = graphviz.Digraph('FinanceBot Conversation Flow', format='png')
     
-    # Set graph attributes for better appearance
+    # Se\t graph attributes for better appearance
     dot.attr(
         rankdir='TB',  # Top to Bottom layout
         size='12,10',

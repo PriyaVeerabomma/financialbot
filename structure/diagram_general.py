@@ -37,7 +37,7 @@ with Diagram("FinanceBot Full Architecture (GPT-4o Enhanced)", show=False, direc
     with Cluster("Data Layer"):
         session_state = Rack("Session State\n(Streamlit)")
 
-    # User interface flow
+    # User interface  flow
     user >> ui
     ui >> onboarding
     ui >> chat >> classifier
