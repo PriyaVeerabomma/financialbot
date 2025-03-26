@@ -2,7 +2,7 @@
 
 > **Quick Links**: These links provide direct access to the project's code and demonstration:
 > - [**Code Labs**](https://codelabs-preview.appspot.com/?file_id=1ncClocUtFE5lYaZge129oi4OgcQbVCJCnjwcLuDUv8k/edit?tab=t.5cpih9qtxm58#0): Documentation of the project
-> - [**Demo Video**](https://example.com/financebot-demo): Watch a demonstration of FinanceBot in action
+> - [**Demo Video**](https://drive.google.com/drive/folders/1KkaBnq2F3uwEfzFaEI0eBiN79AdhZDe_?usp=drive_link): Watch a demonstration of FinanceBot in action
 
 FinanceBot is your personal financial assistant designed to make money management simple and conversational. This Streamlit-based application bridges the gap between complex financial advice and everyday money decisions.
 
